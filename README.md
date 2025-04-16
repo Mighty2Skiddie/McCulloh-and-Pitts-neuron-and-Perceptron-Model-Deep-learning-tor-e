@@ -1,1 +1,1 @@
-# McCulloh-and-Pitts-neuron-and-Perceptron-Model-Deep-learning-tor-e
+# McCulloh-and-Pitts-neuron-Model-(Deep-learning)
